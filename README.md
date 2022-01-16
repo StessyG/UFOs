@@ -8,7 +8,7 @@ The original webpage was built using HTML and Javascript, and tables were added 
 
 .With the newly added filters, the users are able to filter the data using a single criterion as shown in the example below.
 - Filter by city
-
+![Filter_2](https://github.com/StessyG/UFOs/blob/568c00d688efc0e5aa81b2e7d2cd3dde4f9243a8/static/images/Filter_2.png)
 .Users can also use multiple criteria simultaneously for precise results.
 ![Filter_1](https://github.com/StessyG/UFOs/blob/10e8ec4655d140382939140769637030aebdeffe/static/images/Filter_1.png)
 
