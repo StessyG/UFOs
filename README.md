@@ -10,7 +10,7 @@ The original webpage was built using HTML and Javascript, and tables were added 
 - Filter by city
 
 .Users can also use multiple criteria simultaneously for precise results.
-
+![Filter_1](https://github.com/StessyG/UFOs/blob/10e8ec4655d140382939140769637030aebdeffe/static/images/Filter_1.png)
 
 # Summary
 
